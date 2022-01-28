@@ -2,6 +2,8 @@
 A small corpus containing descriptions, plot outlines, PG-ratings, genres and parental advisory information of movies from 1996-2021.
 Data scraped from IMDB.
 
+Current movie count: 5519
+
 ## Data:
 - *id:* IMDB id 
 - *length:* movie length in minutes
